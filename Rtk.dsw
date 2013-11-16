@@ -1,0 +1,170 @@
+Microsoft Developer Studio Workspace File, Format Version 5.00
+# WARNING: DO NOT EDIT OR DELETE THIS WORKSPACE FILE!
+
+###############################################################################
+
+Project: "App"=".\App.dsp" - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+    Begin Project Dependency
+    Project_Dep_Name Rtk
+    End Project Dependency
+}}}
+
+###############################################################################
+
+Project: "CAaBb"=".\CAaBb.dsp" - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+    Begin Project Dependency
+    Project_Dep_Name CAaBb_sisl
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name Rtk
+    End Project Dependency
+}}}
+
+###############################################################################
+
+Project: "CAaBb_sisl"=".\CAaBb_sisl.dsp" - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+    Begin Project Dependency
+    Project_Dep_Name parse
+    End Project Dependency
+}}}
+
+###############################################################################
+
+Project: "RavrProg"=".\RavrProg.dsp" - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+    Begin Project Dependency
+    Project_Dep_Name Rtk
+    End Project Dependency
+}}}
+
+###############################################################################
+
+Project: "RavrProgRtk"=".\RavrProgRtk.dsp" - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+    Begin Project Dependency
+    Project_Dep_Name RavrProg
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name RavrProgRtk_sisl
+    End Project Dependency
+}}}
+
+###############################################################################
+
+Project: "RavrProgRtk_sisl"=".\RavrProgRtk_sisl.dsp" - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+    Begin Project Dependency
+    Project_Dep_Name parse
+    End Project Dependency
+}}}
+
+###############################################################################
+
+Project: "Rex"=".\Rex.dsp" - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+    Begin Project Dependency
+    Project_Dep_Name Rtk
+    End Project Dependency
+}}}
+
+###############################################################################
+
+Project: "Rtk"=".\Rtk.dsp" - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+    Begin Project Dependency
+    Project_Dep_Name Rtk_sisl
+    End Project Dependency
+}}}
+
+###############################################################################
+
+Project: "Rtk_sisl"=".\Rtk_sisl.dsp" - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+    Begin Project Dependency
+    Project_Dep_Name parse
+    End Project Dependency
+}}}
+
+###############################################################################
+
+Project: "parse"=".\parse.dsp" - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Global:
+
+Package=<5>
+{{{
+}}}
+
+Package=<3>
+{{{
+}}}
+
+###############################################################################
+
