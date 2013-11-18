@@ -90,6 +90,10 @@ SOURCE=..\RtkApps\app.cpp
 # End Source File
 # Begin Source File
 
+SOURCE=..\RtkApps\app_sisl.cpp
+# End Source File
+# Begin Source File
+
 SOURCE=.\Rtk.lib
 # End Source File
 # End Target
