@@ -196,11 +196,11 @@ SOURCE=..\Rtk-gui\sisl.h
 # End Source File
 # Begin Source File
 
-SOURCE=..\Rtk-gui\window.cpp
+SOURCE=..\Rtk-gui\RWindow.cpp
 # End Source File
 # Begin Source File
 
-SOURCE=..\Rtk-gui\window.h
+SOURCE=..\Rtk-gui\RWindow.h
 # End Source File
 # End Target
 # End Project
