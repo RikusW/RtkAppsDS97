@@ -160,7 +160,7 @@ SOURCE="..\Rtk-gui\Rtk.h"
 # End Source File
 # Begin Source File
 
-SOURCE="..\Rtk-gui\Rtk_sisl.cpp"
+SOURCE="Rtk_sisl.cpp"
 # End Source File
 # Begin Source File
 
