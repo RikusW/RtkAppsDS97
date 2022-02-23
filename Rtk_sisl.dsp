@@ -57,9 +57,9 @@ CFG=Rtk_sisl - Win32 Debug
 # PROP Use_Debug_Libraries 1
 # PROP Output_Dir "Rtk_sislD"
 # PROP Intermediate_Dir "Rtk_sislD"
-# PROP Cmd_Line "NMAKE /f rtk_sisl.mak"
+# PROP Cmd_Line "NMAKE /f Rtk_sisl.mak"
 # PROP Rebuild_Opt "/a"
-# PROP Target_File "rtk_sisl.cpp"
+# PROP Target_File "Rtk_sisl.cpp"
 # PROP Bsc_Name ""
 # PROP Target_Dir ""
 
