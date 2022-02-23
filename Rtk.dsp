@@ -76,131 +76,131 @@ LIB32=link.exe -lib
 # Name "Rtk - Win32 Debug"
 # Begin Source File
 
-SOURCE=..\Rtk\drawman.cpp
+SOURCE=..\Rtk-gui\drawman.cpp
 # End Source File
 # Begin Source File
 
-SOURCE=..\Rtk\drawman.h
+SOURCE=..\Rtk-gui\drawman.h
 # End Source File
 # Begin Source File
 
-SOURCE=..\Rtk\RCom.cpp
+SOURCE=..\Rtk-base\RCom.cpp
 # End Source File
 # Begin Source File
 
-SOURCE=..\Rtk\RCom.h
+SOURCE=..\Rtk-base\RCom.h
 # End Source File
 # Begin Source File
 
-SOURCE=..\Rtk\RConfig.cpp
+SOURCE=..\Rtk-base\RConfig.cpp
 # End Source File
 # Begin Source File
 
-SOURCE=..\Rtk\RConfig.h
+SOURCE=..\Rtk-base\RConfig.h
 # End Source File
 # Begin Source File
 
-SOURCE=..\Rtk\RFile.cpp
+SOURCE=..\Rtk-base\RFile.cpp
 # End Source File
 # Begin Source File
 
-SOURCE=..\Rtk\RFile.h
+SOURCE=..\Rtk-base\RFile.h
 # End Source File
 # Begin Source File
 
-SOURCE=..\Rtk\RHexFile.cpp
+SOURCE=..\Rtk-base\RHexFile.cpp
 # End Source File
 # Begin Source File
 
-SOURCE=..\Rtk\RHexFile.h
+SOURCE=..\Rtk-base\RHexFile.h
 # End Source File
 # Begin Source File
 
-SOURCE=..\Rtk\rkey.h
+SOURCE=..\Rtk-gui\rkey.h
 # End Source File
 # Begin Source File
 
-SOURCE=..\Rtk\RListView.cpp
+SOURCE=..\Rtk-gui\RListView.cpp
 # End Source File
 # Begin Source File
 
-SOURCE=..\Rtk\RListView.h
+SOURCE=..\Rtk-gui\RListView.h
 # End Source File
 # Begin Source File
 
-SOURCE=..\Rtk\RMenu.cpp
+SOURCE=..\Rtk-gui\RMenu.cpp
 # End Source File
 # Begin Source File
 
-SOURCE=..\Rtk\RMenu.h
+SOURCE=..\Rtk-gui\RMenu.h
 # End Source File
 # Begin Source File
 
-SOURCE=..\Rtk\RString.cpp
+SOURCE=..\Rtk-base\RString.cpp
 # End Source File
 # Begin Source File
 
-SOURCE=..\Rtk\RString.h
+SOURCE=..\Rtk-base\RString.h
 # End Source File
 # Begin Source File
 
-SOURCE=..\Rtk\RTextEdit.cpp
+SOURCE=..\Rtk-gui\RTextEdit.cpp
 # End Source File
 # Begin Source File
 
-SOURCE=..\Rtk\RTextEdit.h
+SOURCE=..\Rtk-gui\RTextEdit.h
 # End Source File
 # Begin Source File
 
-SOURCE=..\Rtk\Rtk.cpp
+SOURCE=..\Rtk-gui\Rtk.cpp
 # End Source File
 # Begin Source File
 
-SOURCE=..\Rtk\Rtk.h
+SOURCE=..\Rtk-gui\Rtk.h
 # End Source File
 # Begin Source File
 
-SOURCE=..\Rtk\Rtk_sisl.cpp
+SOURCE=..\Rtk-gui\Rtk_sisl.cpp
 # End Source File
 # Begin Source File
 
-SOURCE=..\Rtk\RtkAll.h
+SOURCE=..\Rtk-gui\RtkAll.h
 # End Source File
 # Begin Source File
 
-SOURCE=..\Rtk\RTreeView.cpp
+SOURCE=..\Rtk-gui\RTreeView.cpp
 # End Source File
 # Begin Source File
 
-SOURCE=..\Rtk\RTreeView.h
+SOURCE=..\Rtk-gui\RTreeView.h
 # End Source File
 # Begin Source File
 
-SOURCE=..\Rtk\RTreeNode.cpp
+SOURCE=..\Rtk-gui\RTreeNode.cpp
 # End Source File
 # Begin Source File
 
-SOURCE=..\Rtk\RTreeNode.h
+SOURCE=..\Rtk-gui\RTreeNode.h
 # End Source File
 # Begin Source File
 
-SOURCE=..\Rtk\RTypes.h
+SOURCE=..\Rtk-base\RTypes.h
 # End Source File
 # Begin Source File
 
-SOURCE=..\Rtk\sisl.cpp
+SOURCE=..\Rtk-gui\sisl.cpp
 # End Source File
 # Begin Source File
 
-SOURCE=..\Rtk\sisl.h
+SOURCE=..\Rtk-gui\sisl.h
 # End Source File
 # Begin Source File
 
-SOURCE=..\Rtk\window.cpp
+SOURCE=..\Rtk-gui\window.cpp
 # End Source File
 # Begin Source File
 
-SOURCE=..\Rtk\window.h
+SOURCE=..\Rtk-gui\window.h
 # End Source File
 # End Target
 # End Project

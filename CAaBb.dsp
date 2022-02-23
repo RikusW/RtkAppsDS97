@@ -98,11 +98,11 @@ SOURCE=.\Rtk.lib
 # End Source File
 # Begin Source File
 
-SOURCE=..\Rtk\RTypes.h
+SOURCE=..\Rtk-base\RTypes.h
 # End Source File
 # Begin Source File
 
-SOURCE=..\Rtk\sisl.h
+SOURCE=..\Rtk-gui\sisl.h
 # End Source File
 # End Target
 # End Project
