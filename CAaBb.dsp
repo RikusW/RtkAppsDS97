@@ -98,7 +98,7 @@ SOURCE=.\Rtk.lib
 # End Source File
 # Begin Source File
 
-SOURCE=..\Rtk\rtypes.h
+SOURCE=..\Rtk\RTypes.h
 # End Source File
 # Begin Source File
 
